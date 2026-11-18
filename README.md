@@ -1,6 +1,6 @@
 # .github
 
-Perfil público de la organización **Aula Mada** en GitHub. La página que se ve en
-[github.com/aulamada](https://github.com/aulamada) sale de [`profile/README.md`](profile/README.md).
+Public GitHub profile of **Aula Mada**. The page at [github.com/aulamada](https://github.com/aulamada)
+comes from [`profile/README.md`](profile/README.md).
 
-Web: [aulamada.com](https://aulamada.com)
+Website: [aulamada.com](https://aulamada.com)

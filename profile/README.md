@@ -1,54 +1,54 @@
 <p align="center">
-  <a href="https://aulamada.com"><img src="./banner.png" alt="Aula Mada · Campus universitari" width="100%"></a>
+  <a href="https://aulamada.com"><img src="./banner.png" alt="Aula Mada · University campus" width="100%"></a>
 </p>
 
 <p align="center">
-  <b>Apuntes, laboratorios interactivos, ejercicios resueltos y simulacros de examen para primero de universidad.</b><br>
+  <b>Notes, interactive labs, worked exercises and mock exams for first-year university students.</b><br>
   <sub>Català · Castellano · English</sub>
 </p>
 
 <p align="center">
   <a href="https://aulamada.com"><img alt="aulamada.com" src="https://img.shields.io/badge/aulamada.com-696e2e?style=for-the-badge"></a>
-  <a href="mailto:aulamada@aulamada.com"><img alt="Contacto" src="https://img.shields.io/badge/Contacto-3f4a1a?style=for-the-badge"></a>
+  <a href="mailto:aulamada@aulamada.com"><img alt="Contact" src="https://img.shields.io/badge/Contact-3f4a1a?style=for-the-badge"></a>
 </p>
 
 ---
 
-### Qué es Aula Mada
+### What is Aula Mada
 
-Un campus para preparar las asignaturas de primero sin llenar ni una libreta. Cada tema tiene:
+A study campus to get through first-year subjects without filling a single notebook. Every topic has:
 
-- **Apuntes en dos niveles:** *Directo*, para repasar rápido, y *Explicado*, paso a paso.
-- **Laboratorios interactivos** para tocar los conceptos: mover un parámetro y ver qué cambia.
-- **Práctica en tres niveles**, con ejercicios nuevos cada vez y la solución resuelta.
-- **Simulacros con el formato del examen**, con reloj y descarga en PDF.
-- **Repaso personalizado** de lo que más cuesta.
+- **Notes at two levels:** *Quick*, for a fast review, and *Explained*, step by step.
+- **Interactive labs** to play with the concepts: move a parameter and see what changes.
+- **Practice at three levels**, with fresh exercises every time and a worked solution.
+- **Mock exams in the real exam format**, with a timer and PDF download.
+- **Personalised review** of what you find hardest.
 
-Todo el contenido es gratuito. El plan **Pro** añade un tutor con IA y la corrección de simulacros.
+All the content is free. The **Pro** plan adds an AI tutor and mock exam marking.
 
-### Grados
+### Degrees
 
-| Disponible | Próximamente |
+| Available | Coming soon |
 |---|---|
-| Ingeniería Informática | Administración y Dirección de Empresas |
-| Ingeniería en Tecnologías Industriales | Enfermería |
-| Ciencia e Ingeniería de Datos | Magisterio |
-| Historia | Física y Matemáticas · Ciencias Políticas |
+| Computer Engineering | Business Administration and Management |
+| Industrial Technology Engineering | Nursing |
+| Data Science and Engineering | Teacher Education |
+| History | Physics and Mathematics · Political Science |
 
-El orden de los temas se adapta al plan de estudios de cada universidad.
+The order of the topics follows each university's own syllabus.
 
-### Asignaturas
+### Subjects
 
-Matemáticas · Lógica y grafos · Economía · Computadores · Programación (C++ y pseudocódigo) ·
-Física · Estadística · Química · Arte e Historia · Arqueología · Antropología e Historia
+Mathematics · Logic and Graphs · Economics · Computer Systems · Programming (C++ and pseudocode) ·
+Physics · Statistics · Chemistry · Art and History · Archaeology · Anthropology and History
 
-### Apuntes públicos
+### Free notes
 
 [Català](https://aulamada.com/apunts/) · [Castellano](https://aulamada.com/apuntes/) · [English](https://aulamada.com/notes/)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hecho%20en-Andorra-696e2e?style=flat-square" alt="Hecho en Andorra"><br>
-  <sub>Proyecto independiente, sin vínculo con ninguna universidad.</sub>
+  <img src="https://img.shields.io/badge/Made%20in-Andorra-696e2e?style=flat-square" alt="Made in Andorra"><br>
+  <sub>An independent project, not affiliated with any university.</sub>
 </p>
