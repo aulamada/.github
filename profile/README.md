@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aulamada.com"><img src="./banner.png" alt="Aula Mada · University campus" width="100%"></a>
+  <a href="https://aulamada.com"><img src="./banner-en.png" alt="Aula Mada · University campus" width="100%"></a>
 </p>
 
 <p align="center">
