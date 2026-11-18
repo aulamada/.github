@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://aulamada.com"><img alt="aulamada.com" src="https://img.shields.io/badge/aulamada.com-696e2e?style=for-the-badge"></a>
-  <a href="https://aulamada.com/apuntes/"><img alt="Apuntes gratuitos" src="https://img.shields.io/badge/Apuntes%20gratuitos-5c5f3a?style=for-the-badge"></a>
   <a href="mailto:aulamada@aulamada.com"><img alt="Contacto" src="https://img.shields.io/badge/Contacto-3f4a1a?style=for-the-badge"></a>
 </p>
 
